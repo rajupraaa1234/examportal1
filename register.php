@@ -20,7 +20,7 @@ body {
 /* Full-width input fields */
 .a {
   width: 50%;
-  padding: 15px;
+  padding: 16px;
   margin: 5px 0 22px 0;
   display: inline-block;
   border: none;
